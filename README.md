@@ -1,6 +1,6 @@
 # AIWhatsApp
 
-> Criado para um estudo e será adaptado para um comércio local 
+> Criado para um estudo e será adaptado para agilizar o atendimentos de leads pelo WhatsApp
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=PROJETO&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
